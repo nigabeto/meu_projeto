@@ -2,3 +2,4 @@ Esta é uma linha de texto
 Linha escrita na main
 Linha escrita na outra branch
 Terceira linha de texto
+Quarta linha de texto
